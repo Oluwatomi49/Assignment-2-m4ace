@@ -1,1 +1,1 @@
-# Assignment-2-m4ace
+The repository contains a cleaned dataset , originally from Excel file . Some of what i did to the dataset was to remove blank spaces, clearing formatting, deleting duplicate and inserting a table. Now the dataset is ready for analysis     
